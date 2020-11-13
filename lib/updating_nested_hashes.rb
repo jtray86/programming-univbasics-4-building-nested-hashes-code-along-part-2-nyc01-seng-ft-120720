@@ -70,11 +70,11 @@ def add_characters
    # Code your solution here:
 
     epic_tragedy[:montague][:additional_characters]=[:name => "Prince Escalus", :name => "Apothecary"]
-    
+    epic_tragedy[:montague][:additional_characters]=[:name => "Prince Escalus", :name => "Apothecary"]
     
 
 
    # After your code, the following line will return the altered hash
-   puts epic_tragedy[:montague][:additional_characters]
+  epic_tragedy
   
 end
