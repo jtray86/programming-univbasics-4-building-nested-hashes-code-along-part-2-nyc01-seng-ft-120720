@@ -69,7 +69,7 @@ def add_characters
    #   - The second hash should have the :name key set to "Apothecary" 
    # Code your solution here:
 
-    epic_tragedy[:montague][:additional_characters]=[{:name => "Prince Escalus", :name => "Apothecary"}]
+    epic_tragedy[:montague][:additional_characters]=[s", :name => "Apothecary"}]
     epic_tragedy[:montague][:additional_characters]=[{:name => "Prince Escalus", :name => "Apothecary"}]
     
 
